@@ -27,7 +27,8 @@ The idea for the project is to combine electrical and mechanical components to c
 
 **Approximately $60 in total**
 
-<!-- Attach the rough sketch -->
+![Rough Sketch Side View](docs/assets/PrototypeSideView.jpg)
+![Rough Sketch Connector View](docs/assets/PrototypeConnectorView.jpg)
 
 ---
 
